@@ -9,4 +9,4 @@ Published site: https://alanlwang1.github.io/Lab5/
 
 ## Part 2:
 
-LINK TO YOUR PART 2 REPOSITORY
+Link to latest issue: https://github.com/alanlwang1/github-actions-for-ci/issues/7
