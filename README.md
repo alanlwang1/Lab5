@@ -5,7 +5,7 @@
 
 ## Part 1:
 
-LINK TO YOUR PUBLISHED SITE
+Published site: https://alanlwang1.github.io/Lab5/
 
 ## Part 2:
 
